@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>midpointAlgorithm.txt</file>
+        <file>CyrusBeckAlgorithm.txt</file>
+    </qresource>
+</RCC>
